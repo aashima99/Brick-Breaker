@@ -8,6 +8,9 @@ In order to play the game, press “S” to launch the ball. After pressing the 
 Players are allowed to change game difficulty using the menu. When the player right clicks the mouse,  two options are displayed from which the player can select one of the three different levels. Level 1  refers to normal speed and as the level increases from 1 to 3, the speed increases. Also, the game  difficulty level can also be increased by changing the paddle size from small, medium to large.  
 ### The major milestones for the project implementation were: 
 ● Displaying the bricks and disappearing after hitting the ball.
+
 ● Small platform/paddle moving left and right. 
+
 ● The ball must deflect back after hitting brick, side walls and platform at the bottom.
+
 ● Changing the game difficulty by changing the speed of the ball as well as the paddle size for different  levels.
