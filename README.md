@@ -1,6 +1,5 @@
 # Brick-Breaker
 
-## INTRODUCTION 
 The objective of the game is to eliminate all of the BRICKS that are distributed around the top of the  game screen. The bricks get broken after coming in contact with a ball that bounces around the screen.  At the bottom is a paddle that in the game moves based on user input. The player moves a PADDLE  from side-to-side to hit a BALL. The user has to make sure the ball bounces off the paddle without  going off the bottom of the screen. But, if the ball hits the bottom enclosure, the player loses and the  game ends! To win the game, the player has to eliminate all the BRICKS in the respective levels. 
 ## Gameplay Instructions
 In order to play the game, press “S” to launch the ball. After pressing the S key to launch the ball, the  ball will be moving. The players can control the paddle movement in two different ways. It can be  controlled by the keyboard as well as the mouse. The player uses the “A” and “D” keys to move the  paddle to the left and to the right respectively. During the game, if at any time the player wishes to start  a new game, he could press the “Q” key. The goal of the game is to break all of the bricks by intercepting the ball with the paddle and redirecting  the ball to collide with the bricks. 
