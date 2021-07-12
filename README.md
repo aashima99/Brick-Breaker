@@ -4,12 +4,12 @@
 
 # Table of Contents
 1. [Objective](#Objective)
-2. [Gameplay Instructions](#Gameplay Instructions)
-3. [Level Mechanism ](#Level Mechanism)
-4. [User Interface](#User Interface)
+2. [Gameplay Instructions](#Gameplay-Instructions)
+3. [Level Mechanism ](#Level-Mechanism)
+4. [User Interface](#User-Interface)
 5. [Add TensorFlow Lite to the Android app](#add-tensorflow-lite-to-the-android-app)
 6. [Checking out all todo list](#checking-out-all-todo-list)
-7. [Major Milestones](#The major milestones for the project implementation were: )
+7. [Major Milestones](#The-major-milestones-for-the-project-implementation-were:)
 
 
 ## Objective
