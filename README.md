@@ -12,7 +12,7 @@ Players are allowed to change game difficulty using the menu. When the player ri
 ## User Interface
 
 #### Main User Interface 
-![Alt Text](/images/User Interface.png)
+![Alt Text](/images/User_Interface.png)
 
 
 ### Menu Options (Difficulty Levels)
@@ -20,7 +20,7 @@ Players are allowed to change game difficulty using the menu. When the player ri
 
 
 ### Mid Game Intefcae
-![Alt Text](/images/Play User Interface.png)
+![Alt Text](/images/PlayUserInterface.png)
 
 
 ### Changing the paddle Size
