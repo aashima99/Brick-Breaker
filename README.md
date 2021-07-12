@@ -1,4 +1,18 @@
-# Brick-Breaker
+# **Brick-Breaker**
+#### Aashima Tandon
+
+
+# Table of Contents
+1. [Objective](#Objective)
+2. [Gameplay Instructions](#Gameplay Instructions)
+3. [Level Mechanism ](#Level Mechanism)
+4. [User Interface](#User Interface)
+5. [Add TensorFlow Lite to the Android app](#add-tensorflow-lite-to-the-android-app)
+6. [Checking out all todo list](#checking-out-all-todo-list)
+7. [Major Milestones](#The major milestones for the project implementation were: )
+
+
+## Objective
 The objective of the game is to eliminate all of the BRICKS that are distributed around the top of the  game screen. The bricks get broken after coming in contact with a ball that bounces around the screen.  At the bottom is a paddle that in the game moves based on user input. The player moves a PADDLE  from side-to-side to hit a BALL. The user has to make sure the ball bounces off the paddle without  going off the bottom of the screen. But, if the ball hits the bottom enclosure, the player loses and the  game ends! To win the game, the player has to eliminate all the BRICKS in the respective levels. 
 
 ## Gameplay Instructions
