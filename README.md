@@ -42,37 +42,51 @@ Players are allowed to change game difficulty using the menu. When the player ri
 
 #### All the Computer Graphics functions that are implemented are listed below:
 
-##### ●	draw_paddle(): A function which is used to draw paddle using the inbuilt polygon function and defining the appropriate vertices.
+##### ●	draw_paddle(): 
+A function which is used to draw paddle using the inbuilt polygon function and defining the appropriate vertices.
 
-##### ●	brick(GLfloat x, GLfloat y, GLfloat z): A function which is used as the basis for the draw_bricks() function. This is used to draw a single brick.
+##### ●	brick(GLfloat x, GLfloat y, GLfloat z): 
+A function which is used as the basis for the draw_bricks() function. This is used to draw a single brick.
 
-##### ●	draw_bricks(): A function which is used to call multiple instances of the brick() and set up the environment for the game.
+##### ●	draw_bricks(): 
+A function which is used to call multiple instances of the brick() and set up the environment for the game.
 
-##### ●	draw_ball(GLfloat x, GLfloat y, GLfloat radius): This function is used to draw the ball according to its current position.
+##### ●	draw_ball(GLfloat x, GLfloat y, GLfloat radius): 
+This function is used to draw the ball according to its current position.
 
-##### ●	change_difficulty(int action): This function is triggered by the handle_menu() function and is used to change the difficulty level by increasing or decreasing the speed of the ball
+##### ●	change_difficulty(int action): 
+This function is triggered by the handle_menu() function and is used to change the difficulty level by increasing or decreasing the speed of the ball
 
-##### ●	handle_menu(int action): A function which presents a menu triggered by the right click that is used to change the difficulty settings using change_difficulty() and change_paddle_size() functions.
+##### ●	handle_menu(int action): 
+A function which presents a menu triggered by the right click that is used to change the difficulty settings using change_difficulty() and change_paddle_size() functions.
 
-##### ●	change_paddle_size(int action): This function is used to change the paddle size between three levels and is triggered by interacting with the menu presented using handle_menu() function.
+##### ●	change_paddle_size(int action): 
+This function is used to change the paddle size between three levels and is triggered by interacting with the menu presented using handle_menu() function.
 
-##### ●	addMenu(): A function which adds the menu interface and layout to the display area when triggered by right-click.
+##### ●	addMenu(): 
+A function which adds the menu interface and layout to the display area when triggered by right-click.
 
-##### ●	text(): A function which displays the instructions on how to interact with the game.
+##### ●	text(): 
+A function which displays the instructions on how to interact with the game.
 
-##### ●	display(void): This is the main function that calls all other functions to present the elements on screen in each frame.
+##### ●	display(void): 
+This is the main function that calls all other functions to present the elements on screen in each frame.
 
-##### ●	reshape(int w, int h): A function which adjusts the layout of all elements onto the display area through projection.
+##### ●	reshape(int w, int h): 
+A function which adjusts the layout of all elements onto the display area through projection.
 
-##### ●	keyboard(unsigned char key, int x, int y): A function which scans input given. This is done by specifying the role of the keys in the switch case and processing input.
+##### ●	keyboard(unsigned char key, int x, int y): 
+A function which scans input given. This is done by specifying the role of the keys in the switch case and processing input.
 
-##### ●	hit(): This is one of the main functions of our game which comes into play when the ball hits the brick. This function defines the trajectory of the ball after hitting. We used the concept by applying the if else conditions and accordingly changing the direction of the ball.
+##### ●	hit(): 
+This is one of the main functions of our game which comes into play when the ball hits the brick. This function defines the trajectory of the ball after hitting. We used the concept by applying the if else conditions and accordingly changing the direction of the ball.
 
-##### ●	idle(): This is also one of the main functions of our game which handles the motion of the ball along with the rebounding from various surfaces. Here one condition is for increasing the rate after some successive collisions and another condition is to make the changes for the different positions of the ball after rebounding.
+##### ●	idle(): 
+This is also one of the main functions of our game which handles the motion of the ball along with the rebounding from various surfaces. Here one condition is for increasing the rate after some successive collisions and another condition is to make the changes for the different positions of the ball after rebounding.
 
 
 ### Overall Functionality and working of the code and game
-![Alt Text](/images/Flowchart.png)
+![Alt Text](/images/flowchart.png)
 
 
 ### The major milestones for the project implementation were: 
