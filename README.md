@@ -104,7 +104,9 @@ All the Computer Graphics concepts that are implemented are listed below:
 ●	**Game Concept**: Brick Breaker is a famous retro game where we have to destroy all the bricks and the ball should not fall. If the ball falls the game will restart. The main player of the game is paddle, we have to save the ball from going below by the paddle and at the same time try to hit as many bricks as possible.
 
 ●	**Difficulty Levels**: To ensure the users interest in the game we came up with different levels and difficulties, the concepts for the level are described below:
+
 a)	**Changing Size of Paddle**: For this we changed the position of the vertices while defining the polygon, That way we can make the paddle smaller or bigger.
+
 b)	**Changing the speed of the Ball**: For this particular feature we decided to have a rate variable which on increasing gives us a high speed of the ball and vice versa. This rate depends on the x-coordinate and the y-coordinate. The more the rate means the faster the x and y coordinates will change.
 
 ●	**Keyboard Inputs**: Now for playing the game the user needs some kind of input to give. This can be done very easily by using a glut function ‘keyboard’ and then by specifying the role of the keys in the switch case. In each switch case you need to define what that key will do.
