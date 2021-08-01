@@ -32,7 +32,7 @@ Players are allowed to change game difficulty using the menu. When the player ri
 ![Alt Text](/images/Menu.png)
 
 
-### Mid Game Intefcae
+### Mid Game Inteface
 ![Alt Text](/images/PlayUserInterface.png)
 
 
